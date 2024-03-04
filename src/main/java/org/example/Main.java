@@ -15,5 +15,6 @@ public class Main {
         }
         System.out.println();
         System.out.println("opgave 3 delopgave 1");
+        System.out.println("opave 3 delpgave 2");
     }
 }
